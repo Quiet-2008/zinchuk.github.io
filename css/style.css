@@ -186,13 +186,14 @@ margin: 50px 0 50px 40px;
     color: #FB6D3A;
 }
 .tech-skill-item-text,
-.hobbi-icon-item-text{
     font-size: 14px;
     line-height: 24px;
     color: #FFFFFF;
 }
 .hobbi-icon-item-text{
     font-size: 40px;
+    line-height: 24px;
+    color: #FFFFFF;
 }
 .my-photo{
     width:369px;
