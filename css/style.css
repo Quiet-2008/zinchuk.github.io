@@ -146,7 +146,8 @@ body{
 }
 .contact-section,
 .tech-skill-section,
-.soft-skill-section{
+.soft-skill-section,
+.hobbi-section{
 margin: 50px 0 50px 40px;
 }
 .sidebar-title{
@@ -155,7 +156,7 @@ margin: 50px 0 50px 40px;
     font-weight: bold;
     line-height: 27px;
     color: #fff;
-    margin-bottom: 8px;
+    margin-bottom: 30px;
 }
 
 /*contacts section*/
@@ -176,16 +177,24 @@ margin: 50px 0 50px 40px;
 
 /*.tech-skill section*/
 /*.soft-skill section*/
+/*.hobbi section*/
 
-.tech-skil-list{
+.tech-skill-list{
     padding: 0 0 0 17px;   
 }
 .tech-skill-item{
     color: #FB6D3A;
 }
-.tech-skill-item-text{
+.tech-skill-item-text,
+.hobbi-icon-item-text{
     font-size: 14px;
     line-height: 24px;
     color: #FFFFFF;
 }
-
+.hobbi-icon-item-text{
+    font-size: 40px;
+}
+.my-photo{
+    width:369px;
+    height:455px;
+}
